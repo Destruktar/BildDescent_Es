@@ -1,0 +1,1 @@
+"C:\Users\damia\Desktop\BlindDescent_ES\Content\Localization\Game\es\Game.locres" "../../../BlindDescent/Content/Localization/Game/es/Game.locres"
