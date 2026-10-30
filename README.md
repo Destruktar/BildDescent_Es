@@ -2,6 +2,24 @@
 
 Esta carpeta contiene los archivos de traducción al español para la versión de **Blind Descent Playtest** de Steam.
 
+## Capturas
+
+### Menú
+
+![Menú de Blind Descent en español](Screenshots/Menu.png)
+
+### Configuración
+
+![Configuración en español](Screenshots/Config.png)
+
+### Selección de jugador
+
+![Selección de jugador en español](Screenshots/Select_Player.png)
+
+### Juego
+
+![Gameplay de Blind Descent en español](Screenshots/Gameplay.png)
+
 ## Instalación
 
 1. Cierra el juego si está abierto.
@@ -37,5 +55,7 @@ No elimines los otros archivos `.pak`, `.utoc` o `.ucas` del juego.
 - `Content\Localization\Game\Game.locmeta`: metadatos de localización.
 - `Content\Localization\Game\es\Game.locres`: textos en español que carga el juego.
 - `SpanishPak.txt`: archivo auxiliar usado para crear el `.pak`; no hace falta instalarlo.
+
+
 
 
